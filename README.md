@@ -6,19 +6,19 @@
 ---
 
 ## 🔧 Tech Stack
-!Android (https://img.shields.io/badge/Android-ROMs-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-!Python (https://img.shields.io/badge/Python-Tools-3776AB?style=for-the-badge&logo=python&logoColor=white)
-!Linux (https://img.shields.io/badge/Linux-Dev-2C8EBB?style=for-the-badge&logo=linux&logoColor=white)
-!GitHub (https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github&logoColor=white)
+[Android](https://img.shields.io/badge/Android-ROMs-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+[Python](https://img.shields.io/badge/Python-Tools-3776AB?style=for-the-badge&logo=python&logoColor=white)
+[Linux](https://img.shields.io/badge/Linux-Dev-2C8EBB?style=for-the-badge&logo=linux&logoColor=white)
+[GitHub](https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
-!GitHub Stats (https://github-readme-stats.vercel.app/api?username=yuska77&show_icons=true&theme=tokyonight&hide=contribs,prs)  
-!Top Languages (https://github-readme-stats.vercel.app/api/top-langs/?username=yuska77&layout=compact&theme=tokyonight)
+[GitHub Stats](https://github-readme-stats.vercel.app/api?username=yuska77&show_icons=true&theme=tokyonight&hide=contribs,prs)  
+[Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yuska77&layout=compact&theme=tokyonight)
 
-!GitHub Activity Graph (https://activity-graph.herokuapp.com/graph?username=yuska77&theme=react-dark)
+[GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=yuska77&theme=react-dark)
 
 ---
 
